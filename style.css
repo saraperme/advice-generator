@@ -67,15 +67,6 @@ p{
     font-size: 1.6rem;
 }
 
-#advice::before{
-    content:open-quote;
-}
-
-#advice::after{
-    content:close-quote;
-}
-
-
 
 
 /* button */
